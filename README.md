@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tyler-Samay
-- 👀 I’m interested in Game Design and Development, Programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Game Design, Game Development, Programming, and Software Engineering
+- 🌱 I’m currently learning about AWS (API Gateway and IoT Core), and Raspberry Pi's
 - 📫 How to reach me tyler.samay@gmail.com
 
 <!---
